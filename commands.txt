@@ -1,0 +1,14 @@
+move a repo to the local machine: 
+git clone https://github.com/sdelacruz7/portal-10.git
+
+see changes in the repo:
+git status
+
+stage all changed files:
+git add . 
+
+make all staged files part of branch:
+git commit -m "Adds files to branch"
+
+move the changed to files to the server:
+git push
